@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e665920d-9652-495a-9571-d7211ac119ef" name="Default Changelist" comment="" />
+    <list default="true" id="e665920d-9652-495a-9571-d7211ac119ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lambda">
+  <component name="RunManager" selected="Python.main_file">
     <configuration name="dictionaryTalks" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ExserciseFilesPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listTalks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ExserciseFilesPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/levelTo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/levelThree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/levelTo/listTalks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/levelThree/main_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_file" />
         <item itemvalue="Python.lambda" />
         <item itemvalue="Python.multiArgs" />
         <item itemvalue="Python.functionsOne" />
         <item itemvalue="Python.dictionaryTalks" />
-        <item itemvalue="Python.listTalks" />
       </list>
     </recent_temporary>
   </component>
