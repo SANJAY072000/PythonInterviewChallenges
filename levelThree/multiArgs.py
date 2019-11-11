@@ -1,15 +1,13 @@
-# def add(*n):
-#     s = 0
-#     for i in n:
-#         s += i
-#     return s
-#
-#
-# print(add(2, 3, 4, 5, 6))
+def add(*n):
+    s = 100
+    for i in n:
+        s -= i
+    return s
 
 
-l = ['456', 2, 3, 4, 5, 6]
-print(l)
-del l[0]
-print(l)
+p1 = int(input())
+p2 = int(input())
+print(add(p1, p2))
+
+
 
