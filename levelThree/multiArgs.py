@@ -1,13 +1,11 @@
 def add(*n):
-    s = 100
-    for i in n:
-        s -= i
-    return s
+    if len(n) != 2:
+        print("Pass only 2 values")
+        return
+    print("It is ok")
 
 
-p1 = int(input())
-p2 = int(input())
-print(add(p1, p2))
+add(1, 2)
 
 
 
