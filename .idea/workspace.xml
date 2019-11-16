@@ -46,8 +46,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.primeRange">
-    <configuration name="main_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.factorial">
+    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ExserciseFilesPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/levelThree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/univExercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/levelThree/main_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/univExercises/factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.factorial" />
         <item itemvalue="Python.primeRange" />
         <item itemvalue="Python.prime" />
         <item itemvalue="Python.myFiles" />
         <item itemvalue="Python.myDate" />
-        <item itemvalue="Python.main_file" />
       </list>
     </recent_temporary>
   </component>
