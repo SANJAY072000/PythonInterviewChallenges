@@ -1,14 +1,4 @@
-class Samsung:
-    def __init__(self):
-        print("I am Samsung")
-
-    def makeScreen(self):
-        print("I make screens")
-
-    def test(self):
-        print("Screen Tests 1")
-        print("Screen Tests 2")
-        print("Screen Tests 3")
+from oopsOne import *
 
 class Iphone(Samsung):
     def __init__(self):
