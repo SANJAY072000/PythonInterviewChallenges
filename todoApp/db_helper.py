@@ -6,8 +6,8 @@ c = conn.cursor()
 
 def create_table():
     sql = 'CREATE TABLE IF NOT EXISTS ' + table \
-    + ' (ID INTEGER PRIMARY KEY AUTOINCREMENT, TASKNAME TEXT)'
-    c.excute(sql)
+          + ' (ID INTEGER PRIMARY KEY AUTOINCREMENT, TASKNAME TEXT)'
+    c.execute(sql)
 
 def data_entry(task):
     c.execute('INSERT INTO ' + table + ' (TASKNAME) VALUES (?)', [task])
