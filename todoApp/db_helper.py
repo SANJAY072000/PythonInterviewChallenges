@@ -16,6 +16,8 @@ def data_entry(task):
 
 def print_data():
     c.execute('SELECT * FROM ' + table)
+    for i in c.fetchall():
+        print(i[0], ' ---> ', i[1])
 
 
 def delete_task(index):
