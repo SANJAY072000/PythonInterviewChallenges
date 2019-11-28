@@ -3,8 +3,12 @@
 # print(set(map(sq, st)))
 
 
-ml = [12, -78, 23, 23]
-print(all(ml))
+# ml = [12, -78, 23, 23]
+# print(all(ml))
 
-
+ex = ()
+if ex:
+    print(True)
+else:
+    print(False)
 
