@@ -1,6 +1,6 @@
 from collections import deque
 from string import *
-dy = deque(ascii_lowercase)
+dy = deque([1, "asdf", 'sanjay', 3.5, 3, 3.0])
 # print(dy)
 # for i in dy:
 #     print(i, end=',')
