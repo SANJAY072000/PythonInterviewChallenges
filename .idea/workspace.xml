@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e665920d-9652-495a-9571-d7211ac119ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/levelFive/deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/levelFive/deque.py" afterDir="false" />
-    </list>
+    <list default="true" id="e665920d-9652-495a-9571-d7211ac119ef" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
