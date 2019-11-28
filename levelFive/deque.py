@@ -1,4 +1,4 @@
-from collections import *
+from collections import deque
 from string import *
 dy = deque(ascii_lowercase)
 # print(dy)
