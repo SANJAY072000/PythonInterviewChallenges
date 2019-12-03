@@ -12,8 +12,11 @@ def get_data(url):
 def load_json(data):
     if not data is None:
         j = json.loads(data)
+        return j["results"][0]["name"]["first"]
 
 
+url = "https://randomuser.me/api"
+values = load_json(get_data(url))
 
 
 
