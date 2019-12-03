@@ -9,6 +9,10 @@ def get_data(url):
         print("Unable to load url")
 
 
+def load_json(data):
+    if not data is None:
+        j = json.loads(data)
+
 
 
 
